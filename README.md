@@ -13,7 +13,7 @@
     <tr valign="top">
     <td>Pronouns 🧑</td>
       <td>
-          <a href="https://en.wikipedia.org/wiki/Singular_they">
+          <a href="https://en.m.wikipedia.org/wiki/Pronoun">
                   <img src="https://img.shields.io/badge/She-FCFCFB?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAABrElEQVR4nO2Yu0oDQRiFv2oJWGmRMvoCxjIW2pjok4nGF/DS+QZe+iB4bbx0KdUogQgWxkaFxZWBf2UcduPGTTEb/w+GzewehnPmtjsBRVEURVEUxTAD7ACPQAhEnpVQvG0D0zisAK8emIwylj7QsHu+SOYjK0QFmTbxzVtgCQjwjwCoA3eW3y1kXsU3jHnfqVt+OzgL1seedwmchf1jXhWFyPY81gHOrGddoJkwzbJoDPPANfAu11qCpgWcAyWr7ZM8AZK2r/U/aOaAD0dj6tWUtppOPXcAw4LVy8NqDq1tb1Kupr6f0lYoIzTSAIsZAsSaZ0fzJPfLUi9LvTfAWHuUAeyylkGz6mh6QwZoD+Ers7Arc9tdoK75z4S5fSDPzIfYlFxNfS+lrZrzfsodYBC2Zld+3ziaasoinh3Q1sYoApwCx78EsDUTwAVwlKAzvXoFvAGXKdvoidVWSbbUVp4AvhKNVYCw6B9zDwX7nG5Yfu+xtrRIDgsNT0ciAJadA80mckDup7yQfC4v8ZES6fV+wczX3SGqyJB0PP5bpSMev3teURRFURTlP/MF6+cATcJljDEAAAAASUVORK5CYII=&logoColor=33A8E3" height="25" alt="Pronouns Badge"/>
                 </a>
       </td>
